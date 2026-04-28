@@ -28,16 +28,6 @@ Atualmente estou focado em aprender **HTML, CSS e JavaScript**, criando projetos
 - 📜 [Projeto Cordel](https://rafaelfernandes08.github.io/projeto-cordel/) — site com efeito de paralaxe e uso de background em CSS  
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RafaelFernandes08&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelFernandes08&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 📚 Em aprendizado
 
 - Manipulação do DOM com JavaScript  
