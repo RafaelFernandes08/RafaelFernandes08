@@ -22,6 +22,13 @@ Atualmente estou focado em aprender **HTML, CSS e JavaScript**, criando projetos
 
 ---
 
+## 📂 Projetos
+
+- 🌐 [Projeto Android](https://rafaelfernandes08.github.io/projeto-android/) — site estático com foco em HTML e CSS  
+- 📜 [Projeto Cordel](https://rafaelfernandes08.github.io/projeto-cordel/) — site com efeito de paralaxe e uso de background em CSS  
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="left">
@@ -29,11 +36,6 @@ Atualmente estou focado em aprender **HTML, CSS e JavaScript**, criando projetos
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelFernandes08&layout=compact&theme=tokyonight" />
 </p>
 
-
-## 📂 Projetos
-
-- 🌐 [Projeto Android](https://rafaelfernandes08.github.io/projeto-android/) — site estático com foco em HTML e CSS
-- 📜 [Projeto Cordel](https://rafaelfernandes08.github.io/projeto-cordel/) — site com efeito de paralaxe e uso de background em CSS  
 ---
 
 ## 📚 Em aprendizado
